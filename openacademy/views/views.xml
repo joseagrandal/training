@@ -50,12 +50,4 @@
     
     <menuitem name="Open Academy" id="openacademy.menu" parent="openacademy.main_menu"/>
     <menuitem name="Courses" id="openacademy.courses_menu" parent="openacademy.menu" action="openacademy.course_list_acion"/>
-    
-    <!-- actions -->
-    <!--
-    <menuitem name="List" id="openacademy.menu_1_list" parent="openacademy.menu_1"
-              action="openacademy.action_window"/>
-    <menuitem name="Server to list" id="openacademy" parent="openacademy.menu_2"
-              action="openacademy.action_server"/>
-    -->
 </odoo>
